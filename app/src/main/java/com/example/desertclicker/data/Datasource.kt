@@ -16,6 +16,7 @@
 
 package com.example.dessertclicker.data
 
+import com.example.desertclicker.R
 import com.example.dessertclicker.R
 import com.example.dessertclicker.model.Dessert
 
